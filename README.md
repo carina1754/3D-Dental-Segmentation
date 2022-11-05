@@ -1,6 +1,5 @@
 # 3D-Dental-Semantic-Segmentation
 
-협력 회사 : 큐브 세븐틴  
 과제 담당자 : 안정수
 
 # 연구 목표
